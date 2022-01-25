@@ -34,6 +34,6 @@
 
 <h3>Contato:</h3> 
 
-[![Linkedin: Rafael Tomazoni dos Reis](https://img.shields.io/badge/-Rafael%20Tomazoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-tomazoni-22aa32145)](https://www.linkedin.com/in/rafael-tomazoni-22aa32145)  
+[![Linkedin: Rafael Tomazoni dos Reis](https://img.shields.io/badge/-Rafael%20Tomazoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/RafaelTDR)](www.linkedin.com/in/RafaelTDR)  
 [![Gmail Badge](https://img.shields.io/badge/-rafa.eel.tomazoni@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafa.eel.tomazoni@gmail.com)](mailto:rafa.eel.tomazoni@gmail.com)  
 [![GitHub Rafael Tomazoni dos Reis]( https://img.shields.io/github/followers/RafaTDR?label=follow&style=social)](https://github.com/RafaTDR)  
