@@ -32,6 +32,8 @@
 
 <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaTDR&theme=dark)
+
 <h3>Contato:</h3> 
 
 [![Linkedin: Rafael Tomazoni dos Reis](https://img.shields.io/badge/-Rafael%20Tomazoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/RafaelTDR)](https://linkedin.com/in/RafaelTDR)  
